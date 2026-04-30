@@ -1,0 +1,1 @@
+rrotProject.name='my-gradle-app'
